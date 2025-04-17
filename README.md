@@ -1,3 +1,3 @@
-# MoElstat-f25
+# CompProb-f25
 
-Course webpage for MATH 1700 - Fall 2025
+Course webpage for MSSC 6010 - Fall 2025
