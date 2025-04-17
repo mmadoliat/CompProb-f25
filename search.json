@@ -42,9 +42,9 @@
   {
     "objectID": "course-syllabus.html",
     "href": "course-syllabus.html",
-    "title": "Syllabus - Computational Statistics",
+    "title": "Syllabus - Computational Probability",
     "section": "",
-    "text": "Course Title: MATH 4750/MSSC 5750: Computational Statistics\nMeeting Time: TuTh 2:00pm - 3:15pm\nLocation: David Straz Nursing 402 (Microsoft Teams)\nWebsite: http://tinyurl.com/Comp-Stat",
+    "text": "Course Title: MSSC 6010: Computational Probability\nMeeting Time: TuTh 2:00pm - 3:15pm\nLocation: Cudahy Hall 208 (Microsoft Teams)\nWebsite: http://tinyurl.com/C",
     "crumbs": [
       "Course information",
       "Syllabus"
@@ -53,9 +53,9 @@
   {
     "objectID": "course-syllabus.html#course-information",
     "href": "course-syllabus.html#course-information",
-    "title": "Syllabus - Computational Statistics",
+    "title": "Syllabus - Computational Probability",
     "section": "",
-    "text": "Course Title: MATH 4750/MSSC 5750: Computational Statistics\nMeeting Time: TuTh 2:00pm - 3:15pm\nLocation: David Straz Nursing 402 (Microsoft Teams)\nWebsite: http://tinyurl.com/Comp-Stat",
+    "text": "Course Title: MSSC 6010: Computational Probability\nMeeting Time: TuTh 2:00pm - 3:15pm\nLocation: Cudahy Hall 208 (Microsoft Teams)\nWebsite: http://tinyurl.com/C",
     "crumbs": [
       "Course information",
       "Syllabus"
@@ -64,9 +64,9 @@
   {
     "objectID": "course-syllabus.html#instructor-details",
     "href": "course-syllabus.html#instructor-details",
-    "title": "Syllabus - Computational Statistics",
+    "title": "Syllabus - Computational Probability",
     "section": "Instructor Details",
-    "text": "Instructor Details\n\nName: Mehdi Maadooliat, Ph.D.\nOffice: CU 351\nOffice Hours: TuTh 12:25 - 1:55pm in CU 351 or by e-mail",
+    "text": "Instructor Details\n\nName: Mehdi Maadooliat, Ph.D.\nOffice: CU 351\nOffice Hours: Tu (CU 351) & Th (Stat Help Desk) 12:15 - 1:30pm or by e-mail",
     "crumbs": [
       "Course information",
       "Syllabus"
@@ -75,9 +75,9 @@
   {
     "objectID": "course-syllabus.html#course-description",
     "href": "course-syllabus.html#course-description",
-    "title": "Syllabus - Computational Statistics",
+    "title": "Syllabus - Computational Probability",
     "section": "Course Description",
-    "text": "Course Description\nComputational statistics and statistical computing are two areas that employ computational, graphical, and numerical approaches to solve statistical problems. Competent statisticians must not just run existing programs but understand the principles behind them. This class introduces statistically-oriented programming targeted at statistics majors, with no extensive programming background assumed.\nThis course covers traditional core material of computational statistics with an emphasis on using R through an example-based approach.",
+    "text": "Course Description\nA modern course in probability. Foundations of probability for modeling random processes with computational techniques. Topics include counting techniques, probability of events, random variables, distribution functions, probability functions, probability density functions, expectation, moments, moment generating functions, special discrete and continuous distributions, sampling distributions, transformation of variables, prior and posterior distributions, Law of Large Numbers, Central Limit Theorem, the Bayesian paradigm. Numerical and computational methods will be covered throughout topics.",
     "crumbs": [
       "Course information",
       "Syllabus"
@@ -86,9 +86,9 @@
   {
     "objectID": "course-syllabus.html#learning-outcomes",
     "href": "course-syllabus.html#learning-outcomes",
-    "title": "Syllabus - Computational Statistics",
+    "title": "Syllabus - Computational Probability",
     "section": "Learning Outcomes",
-    "text": "Learning Outcomes\nBy the end of the course, students will:\n\nUnderstand core programming concepts, including data structures, functions, iteration, debugging, logical design, and abstraction.\nWrite maintainable code, debug, and test code for correctness.\nSet up and run stochastic simulations in parallel.\nFit basic statistical models and assess the results.\nWork with and filter large datasets.\nComment and organize code effectively.",
+    "text": "Learning Outcomes\nBy the end of the course, students will:\n\nUnderstand and Apply Fundamental Probability Concepts\nAnalyze and Model Random Processes\nPerform Variable Transformations\nImplement Computational Techniques\nInterpret Statistical Theorems\nCritically Evaluate Probabilistic Models\nCommunicate Probabilistic Findings",
     "crumbs": [
       "Course information",
       "Syllabus"
@@ -97,9 +97,9 @@
   {
     "objectID": "course-syllabus.html#prerequisites",
     "href": "course-syllabus.html#prerequisites",
-    "title": "Syllabus - Computational Statistics",
+    "title": "Syllabus - Computational Probability",
     "section": "Prerequisites",
-    "text": "Prerequisites\n\nCOSC 1010\nMATH 3100\nMATH 4700 or MATH 4780",
+    "text": "Prerequisites\n\nThree semesters of mathematics beyond calculus and MATH 4720 or equiv.\nPreferable knowledge is MSSC 5700 and MSSC 5710.",
     "crumbs": [
       "Course information",
       "Syllabus"
@@ -108,9 +108,9 @@
   {
     "objectID": "course-syllabus.html#textbooks",
     "href": "course-syllabus.html#textbooks",
-    "title": "Syllabus - Computational Statistics",
+    "title": "Syllabus - Computational Probability",
     "section": "Textbooks",
-    "text": "Textbooks\n\nMain: Statistical Computing with R, 2nd edition by Maria L. Rizzo. Chapman and Hall/CRC, 2019. ISBN: 1466553324.\nSupplementary: Computational Statistics, 2nd Edition by Geof H. Givens and Jennifer A. Hoeting. Wiley, 2012. ISBN: 9780470533314.",
+    "text": "Textbooks\n\nProbability and Statistics with R, 2nd edition by Maria Dolores Ugarte, Ana F. Militino, Alan T. Arnholt, 2016. ISBN: 9781466504394.",
     "crumbs": [
       "Course information",
       "Syllabus"
@@ -119,9 +119,31 @@
   {
     "objectID": "course-syllabus.html#grading-breakdown",
     "href": "course-syllabus.html#grading-breakdown",
-    "title": "Syllabus - Computational Statistics",
+    "title": "Syllabus - Computational Probability",
     "section": "Grading Breakdown",
-    "text": "Grading Breakdown\n\nClass Participation: 10%\nHomework: 30%\nTeam Project: 30%\nFinal Exam or HW/Project (Instructor will decide): 30%\n\n\nGrading Scale\n\n\n\nGrade\nRange\n\n\n\n\nA\n95 - 100%\n\n\nA-\n89 - 94.99%\n\n\nB+\n84 - 88.99%\n\n\nB\n78 - 83.99%\n\n\nB-\n73 - 77.99%\n\n\nC+\n67 - 72.99%\n\n\nC\n62 - 66.99%\n\n\nC-\n56 - 61.99%\n\n\nD+\n51 - 55.99%\n\n\nD\n45 - 50.99%\n\n\nF\n&lt; 44.99%\n\n\n\nNotes:\n\nFor students in MSSC 5750, there will be extra questions in Homework, and higher expectation for Project.\nNo late homework will be accepted, and no make-up work will be allowed unless in the case of an emergency. Submit incomplete work if necessary, but ensure scanned PDFs are legible before submission.",
+    "text": "Grading Breakdown\n\nHomework: 30%\nProject: 10%\nMidterm Exam: 30%\nFinal Exam: 30%\n\n\nGrading Scale\n\n\n\nGrade\nRange\n\n\n\n\nA\n93.5 - 100%\n\n\nA-\n90- 93.49%\n\n\nB+\n86.5 - 89.99%\n\n\nB\n83.5 - 86.49%\n\n\nB-\n80 - 83.49%\n\n\nC+\n76.5 - 79.99%\n\n\nC\n73.5 - 76.49%\n\n\nC-\n70 - 73.49%\n\n\nD+\n66.5 - 69.99%\n\n\nD\n60 - 66.49%\n\n\nF\n&lt; 59.99%",
+    "crumbs": [
+      "Course information",
+      "Syllabus"
+    ]
+  },
+  {
+    "objectID": "course-syllabus.html#exams",
+    "href": "course-syllabus.html#exams",
+    "title": "Syllabus - Computational Probability",
+    "section": "Exams",
+    "text": "Exams\nTentatively, there will be a midterm (in class) on Oct. 14th, plus the final (in class or take home): Dec. 8th from 10:30 - 12:30pm.",
+    "crumbs": [
+      "Course information",
+      "Syllabus"
+    ]
+  },
+  {
+    "objectID": "course-syllabus.html#homework",
+    "href": "course-syllabus.html#homework",
+    "title": "Syllabus - Computational Probability",
+    "section": "Homework",
+    "text": "Homework\nHomework is required so that you get a better understanding of the material covered, plus it will help you to keep up. You will get a better understanding of the material if you discuss it with someone. However, you must submit YOUR OWN work to D2L website. Assignments are mostly due at 11:50pm (check for due dates in D2L).\nNO LATE HOMEWORK WILL BE ACCEPTED NOR WILL YOU BE ALLOWED TO MAKE UP MISSED HOMEWORK! Plan accordingly! It is better to submit something, even if it is incomplete. You need to type your homework (preferably using LaTeX, or Quarto) and submit it as a PDF file. Scanned homework will be graded out of 80. Low quality scanned homework will be considered as NO submission.",
     "crumbs": [
       "Course information",
       "Syllabus"
@@ -130,9 +152,9 @@
   {
     "objectID": "course-syllabus.html#make-up-policy",
     "href": "course-syllabus.html#make-up-policy",
-    "title": "Syllabus - Computational Statistics",
+    "title": "Syllabus - Computational Probability",
     "section": "Make-up Policy",
-    "text": "Make-up Policy\nNo make-up exams or homework unless there is an emergency.",
+    "text": "Make-up Policy\nThere will not be any make-up exam or homework unless there is an emergency.",
     "crumbs": [
       "Course information",
       "Syllabus"
@@ -141,7 +163,7 @@
   {
     "objectID": "course-syllabus.html#attendance",
     "href": "course-syllabus.html#attendance",
-    "title": "Syllabus - Computational Statistics",
+    "title": "Syllabus - Computational Probability",
     "section": "Attendance",
     "text": "Attendance\nAttendance is required and subject to the College of Arts and Sciences policy.",
     "crumbs": [
@@ -152,7 +174,7 @@
   {
     "objectID": "course-syllabus.html#academic-honesty",
     "href": "course-syllabus.html#academic-honesty",
-    "title": "Syllabus - Computational Statistics",
+    "title": "Syllabus - Computational Probability",
     "section": "Academic Honesty",
     "text": "Academic Honesty\nStudents are expected to follow the University’s policy on academic honesty as outlined in the Bulletin.\nTL;DR: Don’t cheat!\nPlease abide by the following as you work on assignments in this course:\n\nCollaboration: Only work that is clearly assigned as team work should be completed collaboratively.\n\nThe homework assignments must also be completed individually and you are welcomed to discuss the assignment with classmates at a high level (e.g., discuss what’s the best way for approaching a problem, what functions are useful for accomplishing a particular task, etc.). However you may not directly share answers to questions (including any code) with anyone other than myself.\nFor the projects, collaboration within teams is not only allowed, but expected. Communication between teams at a high level is also allowed however you may not share code or components of the project across teams.\nOn individual assignments you may not directly share code with another student in this class, and on team assignments you may not directly share code with another team in this class.\n\nOnline resources: I am well aware that a huge volume of code is available on the web to solve any number of problems. Unless I explicitly tell you not to use something, the course’s policy is that you may make use of any online resources (e.g., StackOverflow) but you must explicitly cite where you obtained any code you directly use (or use as inspiration). Any recycled code that is discovered and is not explicitly cited will be treated as plagiarism.\nUse of generative artificial intelligence (AI): You should treat generative AI, such as ChatGPT, the same as other online resources. There are two guiding principles that govern how you can use AI in this course:1 (1) Cognitive dimension: Working with AI should not reduce your ability to think clearly. We will practice using AI to facilitate—rather than hinder—learning. (2) Ethical dimension: Students using AI should be transparent about their use and make sure it aligns with academic integrity.\n\n✅ AI tools for code: You may make use of the technology for coding examples on assignments; if you do so, you must explicitly cite where you obtained the code. Any recycled code that is discovered and is not explicitly cited will be treated as plagiarism. You may use these guidelines for citing AI-generated content.\n❌ AI tools for narrative: Unless instructed otherwise, you may not use generative AI to write narrative on assignments. In general, you may use generative AI as a resource as you complete assignments but not to answer the exercises for you.\n\nYou are ultimately responsible for the work you turn in; it should reflect your understanding of the course content.\n\nIf you are unsure if the use of a particular resource complies with the academic honesty policy, please ask the instructor.",
     "crumbs": [
@@ -161,22 +183,11 @@
     ]
   },
   {
-    "objectID": "course-syllabus.html#course-topics",
-    "href": "course-syllabus.html#course-topics",
-    "title": "Syllabus - Computational Statistics",
-    "section": "Course Topics",
-    "text": "Course Topics\n\nManaging Input/Output in R\nData structures in R\nData transformations: strings, factors, dates\nStatistical summaries and basic tests in R\nGraphics in R\nMonte Carlo Integration & Variance Reduction\nBootstrap and Jackknife\nDensity Estimation\nRegularization:\n\nRidge and Lasso\nSmoothing\n\nDimension Reduction and Clustering\n\nK-Means and Hierarchical Clustering\nPrincipal Component Analysis (PCA)\n\nNumerical Methods in R\n\nOptimization\nExpectation-Maximization (EM) Algorithm\n\nAdvanced R Programming\n\nIntroduction to Parallel Computing\nObject Oriented Programming in R\nDeveloping an R Package\nDeveloping an Interactive Shiny App\nFunctions and loops in C and using C in R\n\nDeep Learning in R\n\nBasics of Neural Network\n\nImplementation using TensorFlow and Keras\n\nFully Connected Network (FCN)\nConvolutional Neural Networks (CNN)",
-    "crumbs": [
-      "Course information",
-      "Syllabus"
-    ]
-  },
-  {
     "objectID": "course-syllabus.html#important-dates",
     "href": "course-syllabus.html#important-dates",
-    "title": "Syllabus - Computational Statistics",
+    "title": "Syllabus - Computational Probability",
     "section": "Important dates",
-    "text": "Important dates\n\nMonday, January 13: Classes begin\nTuesday, January 21: Drop/add ends\nSaturday - Sunday, March 8 - 16: Spring Break\nFriday, April 11: Last day to withdraw with W\nThursday - Monday, April 17 - 21: Easter Break\nSaturday, May 3: Classes end\nMonday, May 5, 10:30 am - 12:30 pm: Presentations\n\nFor more important dates, see the full MU Academic Calendar.",
+    "text": "Important dates\n\nMonday, August 25: Classes begin\nTuesday, September 2: Drop/add ends\nThursday - Friday, October 16 - 17: Fall Break\nFriday, November 14: Last day to withdraw with W\nThursday - Monday, November 26 - 30: Thanksgiving Holiday\nSaturday, December 6: Classes end\nMonday, December 8, 10:30 am - 12:30 pm: Presentations\n\nFor more important dates, see the full MU Academic Calendar.",
     "crumbs": [
       "Course information",
       "Syllabus"
@@ -185,7 +196,7 @@
   {
     "objectID": "course-syllabus.html#important-note",
     "href": "course-syllabus.html#important-note",
-    "title": "Syllabus - Computational Statistics",
+    "title": "Syllabus - Computational Probability",
     "section": "Important Note",
     "text": "Important Note\nThe syllabus may be modified throughout the course. Any substantial modifications will result in a reissued syllabus.",
     "crumbs": [
