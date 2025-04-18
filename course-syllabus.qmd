@@ -1,5 +1,5 @@
 ---
-title: "Syllabus - Computational Probability"
+title: "Syllabus - Computational Probability - Fall 2025"
 format: 
   html: default
   pdf: default
@@ -10,7 +10,7 @@ format:
 **Course Title:** MSSC 6010: Computational Probability\
 **Meeting Time:** TuTh 2:00pm - 3:15pm\
 **Location:** Cudahy Hall 208 ([Microsoft Teams](https://teams.microsoft.com/l/meetup-join/19%3awd6Q_CvflXuF_yLLWv5LC6iaIgbXcr62t2pVZE4Q1Jw1%40thread.tacv2/1736282508938?context=%7b%22Tid%22%3a%22abe32f68-c72d-420d-b5bd-750c63a268e4%22%2c%22Oid%22%3a%22b0161be8-acaa-4999-ba8b-8ed780d0b7bf%22%7d))\
-**Website:** [http://tinyurl.com/C](http://tinyurl.com/Comp-Prob){.uri}
+**Website:** <http://tinyurl.com/Comp-Prob>
 
 ## Instructor Details
 
@@ -53,8 +53,8 @@ By the end of the course, students will:
 
 -   **Homework:** 30%
 -   **Project:** 10%
--   **Midterm Exam: 30%**
--   **Final Exam: 30%**
+-   **Midterm Exam:** 30%
+-   **Final Exam:** 30%
 
 ### Grading Scale
 
@@ -126,7 +126,7 @@ If you are unsure if the use of a particular resource complies with the academic
 -   **Friday, November 14:** Last day to withdraw with W
 -   **Thursday - Monday, November 26 - 30**: Thanksgiving Holiday
 -   **Saturday, December 6**: Classes end
--   **Monday, December 8, 10:30 am - 12:30 pm**: Presentations
+-   **Monday, December 8, 10:30 am - 12:30 pm**: Final Exam
 
 For more important dates, see the full [MU Academic Calendar](https://www.marquette.edu/central/registrar/2025-fall-academic-calendar.php).
 
