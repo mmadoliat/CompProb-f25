@@ -8,9 +8,9 @@ You can find the course syllabus [here](/course-syllabus.html) and the course sc
 
 ## Class meetings
 
-| Meeting      | Location                       | Time                           |
+| Meeting      | Location                       | Time                         |
 |------------------|---------------------------|---------------------------|
-| Lecture      | CU 208                         | Tue & Thur 11:00 am - 12:15 pm |
-| Office Hours | T: CU 351 & Th: Stat Help Desk | Tue & Thur 12:15 - 1:30 pm     |
+| Lecture      | CU 208                         | Tue & Thur 2:00 pm - 3:15 pm |
+| Office Hours | T: CU 351 & Th: Stat Help Desk | Tue & Thur 12:15 - 1:30 pm   |
 
 ![](images/twitter-card.png)
