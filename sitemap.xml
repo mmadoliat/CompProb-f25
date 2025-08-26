@@ -1,27 +1,27 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://tinyurl.com/Comp-Prob/computing/computing-cheatsheets.html</loc>
-    <lastmod>2025-04-22T18:28:46.330Z</lastmod>
+    <loc>https://tinyurl.com/Comp-Prob/index.html</loc>
+    <lastmod>2025-08-26T18:45:04.210Z</lastmod>
   </url>
   <url>
     <loc>https://tinyurl.com/Comp-Prob/about.html</loc>
-    <lastmod>2025-04-22T18:28:46.315Z</lastmod>
-  </url>
-  <url>
-    <loc>https://tinyurl.com/Comp-Prob/index.html</loc>
-    <lastmod>2025-04-22T18:28:46.338Z</lastmod>
-  </url>
-  <url>
-    <loc>https://tinyurl.com/Comp-Prob/course-links.html</loc>
-    <lastmod>2025-04-22T18:28:46.330Z</lastmod>
-  </url>
-  <url>
-    <loc>https://tinyurl.com/Comp-Prob/course-syllabus.html</loc>
-    <lastmod>2025-04-22T18:28:46.330Z</lastmod>
+    <lastmod>2025-08-26T18:45:04.186Z</lastmod>
   </url>
   <url>
     <loc>https://tinyurl.com/Comp-Prob/course-overview.html</loc>
-    <lastmod>2025-04-22T18:28:46.330Z</lastmod>
+    <lastmod>2025-08-26T18:45:04.201Z</lastmod>
+  </url>
+  <url>
+    <loc>https://tinyurl.com/Comp-Prob/computing/computing-cheatsheets.html</loc>
+    <lastmod>2025-08-26T18:45:04.201Z</lastmod>
+  </url>
+  <url>
+    <loc>https://tinyurl.com/Comp-Prob/course-syllabus.html</loc>
+    <lastmod>2025-08-26T18:45:04.201Z</lastmod>
+  </url>
+  <url>
+    <loc>https://tinyurl.com/Comp-Prob/course-links.html</loc>
+    <lastmod>2025-08-26T18:45:04.201Z</lastmod>
   </url>
 </urlset>
