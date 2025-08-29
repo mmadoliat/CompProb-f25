@@ -1,21 +1,25 @@
 [
   {
+    "objectID": "course-links.html",
+    "href": "course-links.html",
+    "title": "Useful links",
+    "section": "",
+    "text": "Homework\nTI-84 Guideline\nStat Calculator\nDistribution Calculator\nStat Tables\n🔗 on D2L\n🔗 Download here\n🔗 StatCalc(JAMM)\n🔗 DistCalc\n🔗 StatTables\n\n\nAdvanced Texbooks\n🔗 R Package\n🔗 Advanced R by Hadley Wickham\n🔗 Quarto\n🔗 R Markdown\n🔗 ggplot2: Elegant Graphics for Data Analysis\n🔗 Fundamentals of Data Visualization\n🔗 Data Visualization: A Practical Introduction\n🔗 R for Data Science\n\n\nSome Package documentation\n🔗 ggplot2: ggplot2.tidyverse.org\n🔗 dplyr: dplyr.tidyverse.org\n🔗 tidyr: tidyr.tidyverse.org\n🔗 forcats: forcats.tidyverse.org\n🔗 stringr: stringr.tidyverse.org\n🔗 lubridate: lubridate.tidyverse.org\n🔗 readr: readr.tidyverse.org",
+    "crumbs": [
+      "Course information",
+      "Useful links"
+    ]
+  },
+  {
     "objectID": "index.html",
     "href": "index.html",
     "title": "Computational Probability - Fall 2025",
     "section": "",
-    "text": "This page contains an outline of the topics, content, and assignments for the semester. Note that this schedule will be updated as the semester progresses and the timeline of topics and assignments might be updated throughout the semester.\n\n\n\n\n\n\n\n\n\nWEEK\nDATE\nTOPIC\nMATERIALS\nDUE\n\n\n\n\n1\nTue, Aug 26\nIntroduction, Review, Expectations\n💻Chapt 2 Review\n\n\n\n\n\n\nThu, Aug 28\nR Programming\n💻Chapt 1\nR👩‍💻  R🛠️\n\n\n\n\nFri, Aug 29\n\n\n\n\n📝 HW 0\n\n\n2\nTue, Sep 2\nProbability of Events, Conditional Probability\n💻Chapt 3\n\n\n\n\n\n\nThu, Sep 4\nRules of Probability, Disjoint and Independent\n\n\n\n\n\n\n\n\nFri, Sep 5\n\n\n\n\n📝 HW 1 at 11:50 pm\n\n\n3\nTue, Sep 9\nRandom Variables, Discrete RV\n\n\n\n\n\n\n\n\nThu, Sep 11\nContinous RV, WLLN, MGF\n\n\n\n\n\n\n\n\nFri, Sep 12\n\n\n\n\n📝 HW 2 at 11:50 pm",
+    "text": "This page contains an outline of the topics, content, and assignments for the semester. Note that this schedule will be updated as the semester progresses and the timeline of topics and assignments might be updated throughout the semester.\n\n\n\n\n\n\n\n\n\nWEEK\nDATE\nTOPIC\nMATERIALS\nDUE\n\n\n\n\n1\nTue, Aug 26\nIntroduction, Review, Expectations\n💻Chapt 2 Review\n\n\n\n\n\n\nThu, Aug 28\nR Programming 🎥 Lecture 2\n💻Chapt 1\nR👩‍💻  R🛠️\n\n\n\n\nFri, Aug 29\n\n\n\n\n📝 HW 0\n\n\n2\nTue, Sep 2\nProbability of Events, Conditional Probability\n💻Chapt 3\n\n\n\n\n\n\nThu, Sep 4\nRules of Probability, Disjoint and Independent\n\n\n\n\n\n\n\n\nFri, Sep 5\n\n\n\n\n📝 HW 1 at 11:50 pm\n\n\n3\nTue, Sep 9\nRandom Variables, Discrete RV\n\n\n\n\n\n\n\n\nThu, Sep 11\nContinous RV, WLLN, MGF\n\n\n\n\n\n\n\n\nFri, Sep 12\n\n\n\n\n📝 HW 2 at 11:50 pm\n\n\n4\nTue, Sep 16\nDiscrete Univariate Distributions:  Uniform, Binomial, Poisson\n💻Chapt 4\n\n\n\n\n\n\nThu, Sep 18\nCont. Poisson, Geometric, Negative Binomial",
     "crumbs": [
       "Course information",
       "Schedule"
     ]
-  },
-  {
-    "objectID": "about.html",
-    "href": "about.html",
-    "title": "About",
-    "section": "",
-    "text": "About this site"
   },
   {
     "objectID": "course-overview.html",
@@ -49,6 +53,13 @@
       "Computing",
       "Cheatsheets"
     ]
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "About this site!"
   },
   {
     "objectID": "course-syllabus.html",
@@ -213,17 +224,6 @@
     "crumbs": [
       "Course information",
       "Syllabus"
-    ]
-  },
-  {
-    "objectID": "course-links.html",
-    "href": "course-links.html",
-    "title": "Useful links",
-    "section": "",
-    "text": "Homework\nTI-84 Guideline\nStat Calculator\nDistribution Calculator\nStat Tables\n🔗 on D2L\n🔗 Download here\n🔗 StatCalc(JAMM)\n🔗 DistCalc\n🔗 StatTables\n\n\nAdvanced Texbooks\n🔗 R Package\n🔗 Advanced R by Hadley Wickham\n🔗 Quarto\n🔗 R Markdown\n🔗 ggplot2: Elegant Graphics for Data Analysis\n🔗 Fundamentals of Data Visualization\n🔗 Data Visualization: A Practical Introduction\n🔗 R for Data Science\n\n\nSome Package documentation\n🔗 ggplot2: ggplot2.tidyverse.org\n🔗 dplyr: dplyr.tidyverse.org\n🔗 tidyr: tidyr.tidyverse.org\n🔗 forcats: forcats.tidyverse.org\n🔗 stringr: stringr.tidyverse.org\n🔗 lubridate: lubridate.tidyverse.org\n🔗 readr: readr.tidyverse.org",
-    "crumbs": [
-      "Course information",
-      "Useful links"
     ]
   }
 ]
