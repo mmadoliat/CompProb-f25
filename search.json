@@ -15,7 +15,7 @@
     "href": "index.html",
     "title": "Computational Probability - Fall 2025",
     "section": "",
-    "text": "This page contains an outline of the topics, content, and assignments for the semester. Note that this schedule will be updated as the semester progresses and the timeline of topics and assignments might be updated throughout the semester.\n\n\n\n\n\n\n\n\n\nWEEK\nDATE\nTOPIC\nMATERIALS\nDUE\n\n\n\n\n1\nTue, Aug 26\nIntroduction, Review, Expectations\n💻Chapt 2 Review\n\n\n\n\n\n\nThu, Aug 28\nR Programming 🎥 Lecture 2\n💻Chapt 1\nR👩‍💻  R🛠️\n\n\n\n\nFri, Aug 29\n\n\n\n\n📝 HW 0\n\n\n2\nTue, Sep 2\nProbability of Events, Conditional Probability  🎥 Lecture 3\n💻Chapt 3\n\n\n\n\n\n\nThu, Sep 4\nRules of Probability, Disjoint and Independent 🎥 Lecture 4\n\n\n\n\n\n\n\n\nFri, Sep 5\n\n\n\n\n📝 HW 1 at 11:50 pm\n\n\n3\nTue, Sep 9\nRandom Variables, Discrete RV\n\n\n\n\n\n\n\n\nThu, Sep 11\nContinous RV, WLLN, MGF\n\n\n\n\n\n\n\n\nFri, Sep 12\n\n\n\n\n📝 HW 2 at 11:50 pm\n\n\n4\nTue, Sep 16\nDiscrete Univariate Distributions:  Uniform, Binomial, Poisson\n💻Chapt 4\n\n\n\n\n\n\nThu, Sep 18\nCont. Poisson, Geometric, Negative Binomial\n\n\n\n\n\n\n\n\nFri, Sep 19\n\n\n\n\n📝 HW 3 at 11:50 pm\n\n\n5\nTue, Sep 23\nContiniuous Univariate Distributions:  Uniform (Generating Rand #), Exponential",
+    "text": "This page contains an outline of the topics, content, and assignments for the semester. Note that this schedule will be updated as the semester progresses and the timeline of topics and assignments might be updated throughout the semester.\n\n\n\n\n\n\n\n\n\nWEEK\nDATE\nTOPIC\nMATERIALS\nDUE\n\n\n\n\n1\nTue, Aug 26\nIntroduction, Review, Expectations\n💻Chapt 2 Review\n\n\n\n\n\n\nThu, Aug 28\nR Programming 🎥 Lecture 2\n💻Chapt 1\nR👩‍💻  R🛠️\n\n\n\n\nFri, Aug 29\n\n\n\n\n📝 HW 0\n\n\n2\nTue, Sep 2\nProbability of Events, Conditional Probability  🎥 Lecture 3\n💻Chapt 3\n\n\n\n\n\n\nThu, Sep 4\nRules of Probability, Disjoint and Independent  🎥 Lecture 4\n\n\n\n\n\n\n\n\nFri, Sep 5\n\n\n\n\n📝 HW 1 at 11:50 pm\n\n\n3\nTue, Sep 9\nRandom Variables, Discrete RV 🎥 Lecture 5\n\n\n\n\n\n\n\n\nThu, Sep 11\nContinous RV, WLLN, MGF\n\n\n\n\n\n\n\n\nFri, Sep 12\n\n\n\n\n📝 HW 2 at 11:50 pm\n\n\n4\nTue, Sep 16\nDiscrete Univariate Distributions:  Uniform, Binomial, Poisson\n💻Chapt 4\n\n\n\n\n\n\nThu, Sep 18\nCont. Poisson, Geometric, Negative Binomial\n\n\n\n\n\n\n\n\nFri, Sep 19\n\n\n\n\n📝 HW 3 at 11:50 pm\n\n\n5\nTue, Sep 23\nContiniuous Univariate Distributions:  Uniform (Generating Rand #), Exponential\n\n\n\n\n\n\n\n\nThu, Sep 25\nGamma, etc. Normal Distribution\n\n\n\n\n\n\n\n\nFri, Sep 26\n\n\n\n\n📝 HW 4 at 11:50 pm",
     "crumbs": [
       "Course information",
       "Schedule"
@@ -59,7 +59,7 @@
     "href": "about.html",
     "title": "About",
     "section": "",
-    "text": "About this site!"
+    "text": "About this site"
   },
   {
     "objectID": "course-syllabus.html",
